@@ -1,27 +1,45 @@
+### Hi there 👋
+
 <div id="badge">
   <a href="https://www.linkedin.com/in/titouan-houde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=h-titouan&style=flat-square&color=blue" alt=""/>
 </div>
-
-<!-- Afficher les stats (en commentaire pour le moment)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-titouan&exclude_repo=github-readme-stats,h-titouan.github.io)](https://github.com/h-titouan/github-readme-stats)
--->
-
-### Hi there 👋
-
 <!--
 **h-titouan/h-titouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I am a data scientist specialized in sports. I have a master's degree in sports performance optimization and a master's degree in statistics and computer science for data science. 
+
+#### Work Experience 
+- I worked 2 years for Champagne Basket as an Assistant Coach (U21 Team) in charge of performance through video and data and also for the profesionnal Team (1st Division) through video analysis.
+- Since this year, I work for Monaco Basketball as an assistant coach (U21 team) in charge of performance through video and data.
+
+#### Project and skills :
+
+During my Master's Degree, I did projects on the following topics: 
+* Machine Learning in dashboard 
+* Coding R library (Partial Least Square Regression)
+* Text-Mining for Disneyland Paris (Scrapping of "Booking" comments, DataWarehouse and  Dashboard)
+* Time series forecasting
+* Deep Learning (Images classification)
+* MLOPS project (Building a server and client application)
+* Logs analysis for Security
+* Facial recognition in dashboard controlled by voice 
+  
+My main languages are :
+- Python and R
+
+#### Some Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/icons/selenium/selenium-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/icons/r/r-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
