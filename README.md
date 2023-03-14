@@ -11,6 +11,8 @@
 
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-titouan&layout=compact&theme=vision-friendly-dark)](https://github.com/h-titouan/github-readme-stats)
+
 <!--
 **h-titouan/h-titouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
