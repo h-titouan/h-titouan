@@ -27,8 +27,7 @@ During my Master's Degree, I did projects on the following topics:
 * Logs analysis for Security
 * Facial recognition in dashboard controlled by voice 
   
-My main languages are :
-- Python and R
+My main languages are Python and R
 
 #### Some Tools
 
@@ -38,7 +37,7 @@ My main languages are :
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
