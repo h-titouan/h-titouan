@@ -1,3 +1,12 @@
+<div id="badge">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=h-titouan&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-titouan&exclude_repo=github-readme-stats,h-titouan.github.io)](https://github.com/h-titouan/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
