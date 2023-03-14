@@ -3,8 +3,9 @@
 **h-titouan/h-titouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a data scientist specialized in sports. I have a master's degree in sports performance optimization and a master's degree in statistics and computer science for data science. 
+:man: I am a data scientist specialized in sports. I have a master's degree in sports performance optimization and a master's degree in statistics and computer science for data science. 
 
+🔎 You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/titouan-houde/)
 #### Work Experience 
 
 - I worked 2 years for Champagne Basket as an Assistant Coach (U21 Team) in charge of performance through video and data and also for the profesionnal Team (1st Division) through video analysis.
@@ -12,7 +13,7 @@ I am a data scientist specialized in sports. I have a master's degree in sports 
 
 #### Project and skills :
 
-During my Master's Degree, I did projects on the following topics: 
+:books: During my Master's Degree, I did projects on the following topics: 
 * Machine Learning in dashboard 
 * Coding R library (Partial Least Square Regression)
 * Text-Mining for Disneyland Paris (Scrapping of "Booking" comments, DataWarehouse and  Dashboard)
@@ -22,7 +23,7 @@ During my Master's Degree, I did projects on the following topics:
 * Logs analysis for Security
 * Facial recognition in dashboard controlled by voice 
   
-My main languages are Python and R
+:computer: My main languages are Python and R
 
 #### Some Tools
 
@@ -35,10 +36,4 @@ My main languages are Python and R
       <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-</div>
-
-<div id="badge">
-  <a href="https://www.linkedin.com/in/titouan-houde/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
