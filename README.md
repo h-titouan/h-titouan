@@ -14,7 +14,7 @@
 #### Project and skills :
 
 :books: During my Master's Degree, I did projects on the following topics: 
-* Machine Learning in dashboard 
+* Data visualization application for a machine learning problem
 * Coding R library (Partial Least Square Regression)
 * Text-Mining for Disneyland Paris (Scrapping of "Booking" comments, DataWarehouse and  Dashboard)
 * Time series forecasting
