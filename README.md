@@ -5,7 +5,7 @@
 
 :man: I am a data scientist specialized in sports. I have a master's degree in sports performance optimization and a master's degree in statistics and computer science for data science. 
 
-🔎 You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/titouan-houde/)
+🔎 You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/titouan-houde/)
 #### Work Experience 
 
 - I worked 2 years for Champagne Basket as an Assistant Coach (U21 Team) in charge of performance through video and data and also for the profesionnal Team (1st Division) through video analysis.
