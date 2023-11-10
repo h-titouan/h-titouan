@@ -9,7 +9,7 @@
 #### Work Experience 
 
 - I worked 2 years for Champagne Basket as an Assistant Coach (U21 Team) in charge of performance through video and data and also for the profesionnal Team (1st Division) through video analysis.
-- Since this year, I work for Monaco Basketball as an assistant coach (U21 team) in charge of performance through video and data.
+- Since two years, I work for Monaco Basketball as an assistant coach (U21 team) in charge of performance through video and data.
 
 #### Project and skills :
 
