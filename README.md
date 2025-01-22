@@ -9,7 +9,8 @@
 #### Work Experience 
 
 - I worked 2 years for Champagne Basket as an Assistant Coach (U21 Team) in charge of performance through video and data and also for the profesionnal Team (1st Division) through video analysis.
-- Since two years, I work for Monaco Basketball as an assistant coach (U21 team) in charge of performance through video and data.
+- Since three years, I work for Monaco Basketball as an assistant coach (U21 team) in charge of performance through video and data.
+- Since two years, I also work for [Seenovate](https://www.seenovate.com/) as a Consultant Data Scientist
 
 #### Project and skills :
 
